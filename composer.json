@@ -1,0 +1,13 @@
+{
+    "name": "hejian007/composer_demo",
+    "description": "this is a demo for studying composer",
+    "type": "project",
+    "authors": [
+        {
+            "name": "hejian",
+            "email": "17751750214@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
