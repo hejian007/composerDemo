@@ -1,2 +1,2 @@
 # composerDemo
-composer study
+composer study 谁是删除
